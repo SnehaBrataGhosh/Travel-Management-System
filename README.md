@@ -1,2 +1,2 @@
-This project was cicd project.
+This project was ci/cd project.
 
